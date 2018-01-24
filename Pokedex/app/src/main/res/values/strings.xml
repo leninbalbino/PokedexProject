@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="my_pokedex">My Pokedex</string>
+    <string name="loading_pokemons">Loading pokemons...</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_add_to_caught">Caught</string>
+    <string name="action_remove_caught">Remove from my list</string>
+
+    <string name="backdrop_title">POKEDEX</string>
+    <string name="backdrop_subtitle">Wellcome</string>
+
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="abilities">Abilities</string>
+    <string name="moviments">MOVIMENTS</string>
+
+    <string name="hp">HP</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+    <string name="sp_attack">Sp. Attack</string>
+    <string name="sp_defense">Sp. Defense</string>
+    <string name="speed">Speed</string>
+    <string name="total">Total</string>
+
+    <string name="gender">Gender</string>
+    <string name="growth_rate">Growth Rate</string>
+    <string name="capture_rate">Capture Rate</string>
+
+    <string name="my_team">My Team</string>
+    <string name="the_best_attack">The best team attack possible:</string>
+    <string name="team_empty">No pokemons catched yet!</string>
+
+    <string name="m_team_full">Team its complete!</string>
+    <string name="m_error">Error: </string>
+    <string name="m_weak_signal">Weak signal</string>
+
+</resources>

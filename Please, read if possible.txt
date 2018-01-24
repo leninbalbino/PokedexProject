@@ -1,0 +1,8 @@
+Unfortunately this is not my best project, this challenge caught me by surprise, since I've been traveling 
+since the 15th and did not bring my notebook and the 3G signal is bad, luckily I found a friend who lent 
+me the notebook to use, I tried to do as well as possible. I could not do all the test cases, so there may 
+be some bugs. I hope you like the result, I did it with great affection.
+
+Thanks,
+
+Lênin
